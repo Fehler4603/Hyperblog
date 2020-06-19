@@ -6,6 +6,8 @@ Soy el nuevo colaborador del proyecto, me llamo Juan.
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Master 2
